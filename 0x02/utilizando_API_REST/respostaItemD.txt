@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"nome": "Bohemian Rhapsody",
+		"artista": "Queen",
+		"album": "A Night at the Opera",
+		"anoLancamento": "1975"
+	},
+	{
+		"id": 2,
+		"nome": "Imagine",
+		"artista": "John Lennon",
+		"album": "Imagine",
+		"anoLancamento": "1971"
+	},
+	{
+		"id": 3,
+		"nome": "Sweet Child O 'Mine",
+		"artista": "Guns N' Roses",
+		"album": "Appetite for Destruction",
+		"anoLancamento": "1987"
+	}
+]
